@@ -1,0 +1,6 @@
+2017-11-17 23:17:57 [!][mysql]SELECT  * from  pw_finger_db  where  `enable`=1     
+2017-11-17 23:17:57 [+][finger]load fingers count 41
+2017-11-17 23:17:58 [+]url:http://127.0.0.1/phpmyadmin/index.php app:phpmyadmin
+2017-11-17 23:18:18 [!][mysql]SELECT  * from  pw_finger_db  where  `enable`=1     
+2017-11-17 23:18:18 [+][finger]load fingers count 41
+2017-11-17 23:19:00 [+]url:http://www.discuz.net app:discuz
